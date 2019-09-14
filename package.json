@@ -31,5 +31,19 @@
     "react-script-tag": "^1.1.2",
     "rehype-react": "^3.0.2",
     "sprintf-js": "^1.1.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.6.0",
+    "babel-eslint": "^10.0.3",
+    "babel-jest": "^24.9.0",
+    "babel-preset-gatsby": "^0.2.13",
+    "eslint": "^6.4.0",
+    "eslint-config-prettier": "^6.3.0",
+    "eslint-loader": "^3.0.0",
+    "eslint-plugin-jest": "^22.17.0",
+    "eslint-plugin-react": "^7.14.3",
+    "eslint-plugin-react-hooks": "^2.0.1",
+    "jest": "^24.9.0",
+    "prettier": "^1.18.2"
   }
 }
